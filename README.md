@@ -1,2 +1,2 @@
-# Personal-Style-Website
-A site that could be used as a personal website
+# Personal Style Website
+- A site that could be used as a personal website
