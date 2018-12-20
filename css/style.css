@@ -11,11 +11,7 @@ h1 {
     font-family: 'Sacramento', cursive;
 }
 
-h2 {
-    font-family: 'Montserrat', serif;
-}
-
-h3 {
+h2, h3 {
     font-family: 'Montserrat', serif;
 }
 
@@ -45,6 +41,17 @@ h3 {
 
 .middle-container {
     
+}
+
+#skillspic {
+    border-radius: 50%;
+}
+
+#facepic {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    border: 5px solid #e4f9f5;
 }
 
 
