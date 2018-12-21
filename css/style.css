@@ -1,5 +1,6 @@
 
 
+
 body {
     margin: 0;
     text-align: center;
@@ -41,6 +42,9 @@ hr {
 }
 
 
+
+
+
 .top-container {
     background-color: #e4f9f5;
     position: relative;
@@ -63,14 +67,22 @@ hr {
     bottom: 300px;
 }
 
+
+
+
+
 .middle-container {
-    padding: 100px 0 20px;;
+    padding: 100px 0 20px;
 }
 
 .skill-row {
     width: 50%;
-    margin: 100px auto;
+    margin: 100px auto 0;
     text-align: left;
+}
+
+.bottom-skill {
+    margin-top: 100px;
 }
 
 #facepic {
@@ -97,6 +109,10 @@ hr {
     float: right;
     margin: 30px;
 }
+
+
+
+
 
 .bottom-container {
     margin-bottom: 100px;
@@ -147,6 +163,10 @@ a:hover {
     text-decoration: none;
 }
 
+
+
+
+
 footer {
     background-color: #66BFBF;
     padding: 10px 0 7px 0; 
@@ -156,3 +176,7 @@ footer {
     color: #EAF6F6;
     font-size: .8rem;
 }
+
+
+
+
