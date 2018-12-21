@@ -64,7 +64,7 @@ hr {
 }
 
 .middle-container {
-    padding-top: 100px;
+    padding: 100px 0 50px;;
 }
 
 .skill-row {
@@ -99,7 +99,7 @@ hr {
 }
 
 .bottom-container {
-    margin-bottom: 50px;
+    margin-bottom: 100px;
 }
 
 #contact-message {
